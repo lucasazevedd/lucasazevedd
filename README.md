@@ -1,15 +1,24 @@
-# 👋 Olá, eu sou o Lucas Azevedo!
+# 👋 Lucas Azevedo
 
-💡 *Criando o BeanFlow: uma plataforma de BI com dashboards interativos e automações em tempo real, feita com Superset, React e Firebase.*  
-🎯 Buscando meu primeiro emprego na área de tecnologia — seja onde for, eu me viro!
+Desenvolvedor em formação, criador do **BeanFlow** — uma aplicação de Business Intelligence com dashboards interativos e automações em tempo real, voltada para pequenos negócios.  
+
+Atualmente focado no desenvolvimento de soluções usando **Superset**, **React**, **Firebase** e **PostgreSQL**.
 
 ---
 
-## 🚀 Tecnologias que trabalho / ja trabalhei
+## 💼 Projeto em Destaque
+
+### [BeanFlow](https://github.com/lucasazevedd/beanflow)  
+Gerenciador de tarefas e vendas B2B com dashboards integrados, dados em tempo real e interface moderna.  
+Tecnologias utilizadas: Superset + Firebase + React + Docker.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
 
 - Apache Superset
 - PostgreSQL
-- Docker
+- Docker & Docker Compose
 - Firebase
 - React
 - Node.js
@@ -21,25 +30,6 @@
 
 ---
 
-## 💼 Projeto em destaque
-
-### [BeanFlow](https://github.com/lucasazevedd/beanflow)  
-> Um gerenciador de tarefas e vendas B2B com dashboards em tempo real para pequenas empresas.  
-> Feito com ❤️ usando Superset + Firebase + React!
-
----
-
-## ⚽ Curiosidades
-
-- Amo futebol (especialmente a Champions League)
-- Torcedor do **Vasco da Gama** — e sim, eu sofro com isso todos os dias 😂
-
----
-
-## 🌐 Onde me encontrar
+## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-israel-azevedo)
-
----
-
-📌 *Obrigado por visitar meu perfil! Se quiser colaborar ou trocar ideia, só chamar.* 🚀`
