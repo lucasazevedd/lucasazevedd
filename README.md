@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologias que uso neste projeto
+## 🚀 Tecnologias que trabalho / ja trabalhei
 
 - Apache Superset
 - PostgreSQL
